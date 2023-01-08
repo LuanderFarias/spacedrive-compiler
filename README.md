@@ -1,3 +1,8 @@
+# Project canceled.
+I realized that a compiler for spacedrive is not needed. Yeah, some people don't know (or have problems) compiling spacedrive. But my program would not solve it. If the user commands would not work using the normal compile method, the compiler is not going to work too. There's not a way to prevent the compilation to fail cause every user has it's different setup. Something much more efective would be compiling spacedrive by myself and letting the .exe or .deb public. In a system like nightly-releases. So... yeah, spacedrive-compiler is not a thing anymore. actually never was cause i never finished it. Sorry for all the people that liked the project and was waiting for it. Let's wait till the incredible team of spacedrive do what they have to do. And pls do not don't rush them.
+
+#
+
 <p align="center">
   <a href="#">
   </a>
